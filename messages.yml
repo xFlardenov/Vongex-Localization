@@ -1,0 +1,55 @@
+noPermissions: '&6Commands &8x &4&lНедостаточно прав для использования команды: &cдля исполнения команды нужно иметь группу не ниже &4Владельца.'
+serverNotFound: '&6Vongex Cloud &7| §cНа данный момент, сервер не найден.'
+notFound: '&6Vongex Cloud &7| §cОшибка, игрок не найден или не онлайн.'
+connecting: '&6Vongex Cloud &7| &fПереносим вас на сервер &a%server%'
+youNotPlayer: '&6Vongex Cloud &7| &cВы не игрок.'
+Staffchat:
+  usage: '&cЧат Персонала &8| &cОшибка, используйте /sc <сообщение>'
+Donatechat:
+  usage: '&cЧат донатеров &8| &cОшибка, используйте /dc <сообщение>'
+Alert:
+  usage: '&4ALERT &fИспользуйте - &2/alert &2<сообщение>'
+Find:
+  usage: '&a&lFIND &8| &cОшибка, используйте /find [Ник]'
+  found: '§a§lFIND &8| §fИгрок &7%player% &fнаходится на сервере &a%server%'
+GetIP:
+  usage: '&cСекретная команда: &cОшибка, используйте /getip [nickname]'
+  ip: '§e§lCORE &8| §fIP-Адресс игрока &7%player% &f- &6%ip%'
+Hub:
+  unviable: '&6Commands &8x &4На данный момент &bLobby-1&f, &4недоступно.'
+  alreadyConnected: '&6Commands &8x &4Вы уже находидесь в &bLobby-1&f.'
+Message:
+  usage: '&6Commands &8x &cНеправильное использование. Правильное использование: /msg <игрок> <сообщение>'
+  notFound: '&6Commands &8x &cИгрок не найден.'
+  toMe: '&6Commands &8x &cВы не можете отправлять личное сообщение самому себе.'
+  ignoreAll: '&6Commands &8x &cДанный игрок отключил приватные сообщения.'
+  ignore: '&6Commands &8x &cВы в чёрном списке у этого игрока'
+  Format:
+    to: ' &6Messages &8x &6Я &f» &7%target% &f: &f%message%'
+    from: ' &6Messages &8x &7%from% &f» &6Я &f: &f%message%'
+Reply:
+  usage: '&6Messages &8x &cНеправильное использование. Правильное использование: /reply [Сообщение]'
+  nope: '&6Messages &8x &cВы ни с кем не разговаривали, чтобы ответить.'
+  leave: '&6Messages &8x &cПолучатель сообщения вышел из игры'
+Ignore:
+  usage: '&6Vongex Cloud &7| §cОшибка, используйте /ignore [Ник]'
+  ignore: '&6Vongex Cloud &7| §eВы добавили игрока &7%player%&e в список игнорируемых. Теперь он не может отправлять вам личные сообщения.'
+  unignore: '&6Vongex Cloud &7| §cВы больше не игнорируете игрока &7%player%&c, он может отправлять вам личные сообщения.'
+  youCantIgnoreYouself: '&6Vongex Cloud &7| §cВы не можете игнорировать сами себя.'
+IgnoreAll:
+  ignore: '&6Vongex Cloud &7| §eТеперь игроки не могут отправлять вам личные сообщения.'
+  unignore: '&6Vongex Cloud &7| §cТеперь игроки могут отправлять вам личные сообщения.'
+Online:
+  glist: '&6Commands &8x &fСобрал онлайн BungeeCord&f, получилось - &a%online%'
+  server: '&6Commands &8x §fСобрал онлайн сервера &c%server% &fполучилось &f- &a%online%'
+Send:
+  usage: '&6Commands &8x §cОшибка, используйте /send [Ник] [Сервер]'
+  teleported: '&6Commands &8x §fИгрок &7%player% &fуспешно телепортирован на сервер &c%server%'
+  youTeleported: '&6Commands &8x §fАдминистратор &fтелепортировал вас на сервер &a%server%'
+Server:
+  usage: '&6Commands &8x &cНеправильное использование. Правильное использование: &2/server <name>'
+  alreadyConnected: '&6Commands &8x §fВы уже находитесь на данном сервере.'
+Where:
+  msg: '&6Commands &8x Вы находитесь на сервере &8x &a%server%'
+Rules:
+  msg: '&fПравила написаны в нашей &fгруппе ВК: &chttps://vk.com/seltixhero_yt'
