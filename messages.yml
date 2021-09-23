@@ -51,5 +51,3 @@ Server:
   alreadyConnected: '&6Commands &8x §fВы уже находитесь на данном сервере.'
 Where:
   msg: '&6Commands &8x Вы находитесь на сервере &8x &a%server%'
-Rules:
-  msg: '&fПравила написаны в нашей &fгруппе ВК: &chttps://vk.com/seltixhero_yt'
